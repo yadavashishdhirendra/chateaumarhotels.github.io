@@ -5,7 +5,7 @@ body {
 /* Images. */
 
 #Pic1 {
-  background: url('./Images/Pic1.jpg) no-repeat center top;
+  background: url('./Images/Pic1.jpg') no-repeat center top;
   background-size: contain;
   width: 100%;
   height: 677px;
